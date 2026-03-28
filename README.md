@@ -1,78 +1,87 @@
-💬 Chat App (Personal + Group Messaging)
+# 💬 Simple Chat App (Personal + Group Messaging)
 
-🚀 A modern Android Chat Application that supports personal messaging and group chats with a clean UI and smooth experience.
+🚀 A modern Android Chat Application that supports **personal messaging** and **group chats** with a clean UI and smooth experience.
 
-✨ Features
+---
 
-🔥 Personal Chat
+## ✨ Features
 
-One-to-one messaging
-Real-time chat system
-Simple & clean interface
+🔥 **Personal Chat**
+- One-to-one messaging  
+- Real-time chat system  
+- Simple & clean interface  
 
-👥 Group Chat
+👥 **Group Chat**
+- Create group chats  
+- Send messages in groups  
+- Multiple users interaction  
 
-Create group chats
-Send messages in groups
-Multiple users interaction
+⚡ **Fast & Lightweight**
+- Smooth performance  
+- Optimized UI  
 
-⚡ Fast & Lightweight
+🎨 **Attractive UI**
+- Modern design  
+- User-friendly experience  
 
-Smooth performance
-Optimized UI
+---
 
-🎨 Attractive UI
+## 📱 Screenshots
 
-Modern design
-User-friendly experience
-📱 Screenshots
+<img src="c1.png" width="150"/>  
+<img src="l1.png" width="180"/>  
+<img src="m1.png" width="180"/>  
+<img src="p1.png" width="180"/> 
+<img src="g1.png" width="180"/> 
 
-(Add your app screenshots here 👇)
+---
 
-📸 Home Screen
-📸 Chat Screen
-📸 Group Chat
+## 🛠️ Tech Stack
 
+- 💻 **Language:** Java  
+- 📱 **Platform:** Android  
+- 🔥 **Backend:** Firebase (Realtime Database / Firestore)  
+- 🔐 **Authentication:** Firebase Auth  
+- 🎨 **UI:** XML Layouts  
 
-🛠️ Tech Stack
-💻 Language: Java
-📱 Platform: Android
-🔥 Backend: Firebase (Realtime Database / Firestore)
-🔐 Authentication: Firebase Auth
-🎨 UI: XML Layouts
-📂 Project Structure
+---
 
-ChatApp/
+## 📂 Project Structure
+SimpleChatApp/
 │── Activities/
 │── Adapters/
 │── Models/
+│── Firebase/
 │── Layouts/
 │── Utils/
 
-⚙️ Installation
-Clone the repository
-git clone https://github.com/your-username/chat-app.git
-Open in Android Studio
-Run the app 🚀
+## 🚀 Future Improvements
 
-🚀 Future Improvements
-✅ Image & File Sharing
-✅ Voice Messages
-✅ Online/Offline Status
-✅ Message Seen Indicator
-🤝 Contributing
+- ✅ Image & File Sharing  
+- ✅ Voice Messages  
+- ✅ Online/Offline Status  
+- ✅ Message Seen Indicator  
 
-Contributions are welcome!
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
 Feel free to fork this repo and improve the app.
 
-📧 Contact
+---
 
-👤 Developer: Heet Patel
-📩 Email: Heetmenpara@gmail.com
+## 📧 Contact
 
-⭐ Support
+👤 Developer: **Heet Menpara**  
+📩 Email: Heetmenpara@gmail.com  
+
+---
+
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
 
-🔥 "Connect people. Chat anytime. Anywhere."
+---
 
+🔥 **"Connect people. Chat anytime. Anywhere."**
