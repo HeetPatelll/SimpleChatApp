@@ -28,12 +28,13 @@
 
 ## 📱 Screenshots
 
-<img src="c1.png" width="150"/>  
-<img src="l1.png" width="180"/>  
-<img src="m1.png" width="180"/>  
-<img src="p1.png" width="180"/> 
-<img src="g1.png" width="180"/> 
-
+<p align="center">
+  <img src="c1.png" width="250"/>
+  <img src="l1.png" width="250"/>
+  <img src="m1.png" width="250"/>
+  <img src="p1.png" width="250"/>
+  <img src="g1.png" width="250"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack
